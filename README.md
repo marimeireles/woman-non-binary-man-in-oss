@@ -105,16 +105,21 @@ The data shows that women, non-binary and men have similar age distributions. Th
 
 ## Conclusion
 
-Women are tipically [underrepresented](http://www.unesco.org/new/en/media-services/single-view/news/women_still_a_minority_in_engineering_and_computer_science/) in the STEM fields because of an intrisic sexism that trace to hundreds of years in human society and I believe this is the main reason why there are consideraly less women in computing nowadays. In the beggining computer science strongly depended and counted with the brighteness of women like Ada, Hopper and many other women who programmed and made calculations for the first computers but for the last 70 years the field was dominated and controlled by men who secluded women.
+Women are tipically [underrepresented](http://www.unesco.org/new/en/media-services/single-view/news/women_still_a_minority_in_engineering_and_computer_science/) in the STEM fields because of an intrisic sexism that trace to hundreds of years in human society and I believe this is the main reason why there are consideraly less women in computing nowadays. In the beggining computer science strongly depended and counted with the brighteness of women like Ada, Hopper and many other women who programmed and made calculations for the first computers, but for the last decades the field was dominated and controlled by men who secluded women.
+
 Happily, women are taking their place back again in this wonderful field, there are many initiatives trying to dissolve the history of disincentive that women have.
 
 What I could understand from the study of the datum is that women, people who identify as non-binary and men are basically the same when the subject is interest in participating OSS communities. As shown in the graph "Future Contribution Interest by Gender", even though women don't contribute as much as men to the community they still want to do it, maybe what is lacking is more incentive and a more open and welcoming environment for begginers and for women.
 
-Codes of conduct that guarantee a safe place to women and people who identify as non-binary may increase the number of people from these genders in OSS community.
+Codes of conduct that guarantee a safe place to women and a more respectful and empathetic community, besides what have been said, may be the solution to increase the number of women in OSS communities.
 
 ## Development
 
-I used RStudio to visualize the datum from the tables I needed and also to create new tables and csv files. I found out it was a good software for data visualization.
+I used RStudio to visualize the datum I needed from the tables and also to create new tables and csv files. I found out it was a good software for data visualization.
+
 To write the code that generate the graphs I've used [plotyly](https://plot.ly/) a very complete tool that uses R and the ggplot (and also Python and Javascript, but following the issue's specifications I've used R). 
 As someone who just started programming R I found plotyly approachble and easy to use.
+
+Everything that I code can be found in this repository at code/.
+
 I've also used [paletton](http://paletton.com) to choose nice matching colors to the graphs since how people perceive data is also important.
