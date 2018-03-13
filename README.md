@@ -18,10 +18,10 @@ Which brings the question: why are there so few women in OSS?
 
 First, I looked at the different types of participation reported on the survey. Check the alternatives: 
 
-	* Follow updates and discussions of open source projects;
-	* Use open source applications; 
-	* Use open source software as dependencies in other projects; 
-	* Participate in open source software development (including making feature requests, filing bugs, contribution of documentation or code, project maintenance, etc.). The participants could make multiple selections. This is what I found:
+* Follow updates and discussions of open source projects;
+* Use open source applications; 
+* Use open source software as dependencies in other projects; 
+* Participate in open source software development (including making feature requests, filing bugs, contribution of documentation or code, project maintenance, etc.). The participants could make multiple selections. This is what I found:
 
 ![](graphs/participation_type_per_gender.png)
 
@@ -33,10 +33,10 @@ Many women come to Github to use the open source applications that are availabe 
 
 I analysed what was the contribution interest of the participants by measuring how much they were interested in making a contribution to OSS: 
 
-	* Very interested; 
-	* Somewhat interested; 
-	* Not too interested; 
-	* Not at all interested. 
+* Very interested; 
+* Somewhat interested; 
+* Not too interested; 
+* Not at all interested. 
 
 Here are the results:
 
@@ -48,11 +48,11 @@ Even though women did not participate in OSS communities as much as men and non-
 
 Data about formal education of the people who answered the questionnaire was also collected. People answered what was their highest level of formal education: 
 
-	* Less than secondary (high) school; 
-	* Secondary (high) school graduate or equivalent; 
-	* Some college and no degree
-	* Vocational/trade program or apprenticeship 
-	* Bachelor's degree, master's degree or doctorate (Ph.D.) other advanced degree (e.g. M.D., J.D.).
+* Less than secondary (high) school; 
+* Secondary (high) school graduate or equivalent; 
+* Some college and no degree
+* Vocational/trade program or apprenticeship 
+* Bachelor's degree, master's degree or doctorate (Ph.D.) other advanced degree (e.g. M.D., J.D.).
 
 ![](graphs/formal_education_gender.png)
 
@@ -62,11 +62,11 @@ I wondered if formal education was a characteristic that would interfere with th
 
 Another type of data that the Github's survey offered was the emplyoment status of the respondent. The participants could choose between: 
 
-	* Employed full time; 
-	* Employed part time; 
-	* Full time student; 
-	* Temporarily not working or retired/permanently not working (e.g. due to disability);
-	* Not working at the moment.
+* Employed full time; 
+* Employed part time; 
+* Full time student; 
+* Temporarily not working or retired/permanently not working (e.g. due to disability);
+* Not working at the moment.
 
 ![](graphs/employment_status.png)
 
@@ -76,11 +76,11 @@ I imagined that women couldn't spend much time contributing to OSS because they'
 
 I also asked myself if there was any relation between the age at which someone started to use a computer and how much they'd be engaged in OSS communities, the participants could choose between the following options: 
 
-	* Younger than 13 years old;
-	* 13 - 17 years old; 
-	* 18 - 24 years old; 
-	* 25 - 45 years old;
-	* Older than 45 years old.
+* Younger than 13 years old;
+* 13 - 17 years old; 
+* 18 - 24 years old; 
+* 25 - 45 years old;
+* Older than 45 years old.
 
 ![](graphs/age_at_first_computer_with_internet_access.png)
 
@@ -89,14 +89,15 @@ As the graph shows there is, there is apparently no relation between the time th
 ## Age by gender
 
 At last, the last avalyses that I thought was relevant for the purpose of my research was if age is one of the reasons for this discrepancy. The age ranges varied between: 
-	* 17 or younger; 
-	* 18 to 24 years; 
-	* 25 to 34 years; 
-	* 35 to 44 years; 
-	* 45 to 54 years; 
-	* 55 to 64 years; 
-	* 65 to 74 years; 
-	* 75 years or older.
+
+* 17 or younger; 
+* 18 to 24 years; 
+* 25 to 34 years; 
+* 35 to 44 years; 
+* 45 to 54 years; 
+* 55 to 64 years; 
+* 65 to 74 years; 
+* 75 years or older.
 
 ![](graphs/age_gender.png)
 
