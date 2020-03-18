@@ -6,8 +6,8 @@ As a contributor to the Diversity team of Mozilla I made an analysis about how O
 
 Women participate in OSS communities at a much lower rate than men. Seeing this extremely discrepant data motivated me to run this small research.
 
-
-![](/graphs/participation_by_gender.png)
+**Participation by gender**
+![Paticipation by gender](/graphs/participation_by_gender.png)
 
 
 From 3551 people that declared their gender identity in the questionnaire, 3387 were men (95.4%), 125 were women (3.52%) and 39 were non-binary (1.08%). I did not find good sources on what's the percentage of people who identify as non-binary in the world, because most demographic censuses don't even consider the existance of non-binary people. But the percentages of women and men in the world are [about the same](https://data.worldbank.org/indicator/SP.POP.TOTL.FE.ZS).
@@ -23,7 +23,7 @@ First, I looked at the different types of participation reported on the survey. 
 * Use open source software as dependencies in other projects; 
 * Participate in open source software development (including making feature requests, filing bugs, contribution of documentation or code, project maintenance, etc.). The participants could make multiple selections. This is what I found:
 
-![](graphs/participation_type_per_gender.png)
+![Participation type by gender](graphs/participation_type_per_gender.png)
 
 It's interesting to notice that almost the same amount of women, men and non-binary use dependencies and OSS applications. But 74.3% of people who identified as men and 76% of people who identified as non binary contributed as a developer for OSS while only 59.2% of people who identified as women contributed as developers. Women also tend to follow updates from OSS much less (64%) than men do (94.4%).
 
@@ -40,7 +40,7 @@ I analysed what was the contribution interest of the participants by measuring h
 
 Here are the results:
 
-![](graphs/future_contribution_interest.png)
+![Future contribution interest](graphs/future_contribution_interest.png)
 
 Even though women did not participate in OSS communities as much as men and non-binary people did they are very interested and intend to contribute to OSS. Their interest in contributing is close to people identified as non-binary around 70% and still lower than the insterest shown by men 87%.
 
@@ -54,7 +54,7 @@ Data about formal education of the people who answered the questionnaire was als
 * Vocational/trade program or apprenticeship 
 * Bachelor's degree, master's degree or doctorate (Ph.D.) other advanced degree (e.g. M.D., J.D.).
 
-![](graphs/formal_education_gender.png)
+![Formal education per gender](graphs/formal_education_gender.png)
 
 I wondered if formal education was a characteristic that would interfere with the contribution and presence of women in the OSS communities. From these data I learned that even though women tend to have a lower degree of formal education than men, the numbers are not so discrepant as I expected. But because of the need that women have to [prove themselves frequently](http://www.pewsocialtrends.org/2018/01/09/women-and-men-in-stem-often-at-odds-over-workplace-equity/ps_2018-01-09_stem_2-07/) in sexist environments and because of [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) it might be a relevant reason why women engage less with OSS than men. Meanwhile the non binary presented the lowest level of formal education, but it doesn't seem to interfeer with how much they participate in OSS communities, since their rates of engagement are similar to those of men.
 
@@ -68,7 +68,7 @@ Another type of data that the Github's survey offered was the emplyoment status 
 * Temporarily not working or retired/permanently not working (e.g. due to disability);
 * Not working at the moment.
 
-![](graphs/employment_status.png)
+![Employment status by gender](graphs/employment_status.png)
 
 I imagined that women couldn't spend much time contributing to OSS because they're, generally, more occupied than men working or maybe studying, but the graphs for both gender identities are very similar. Therefore, I don't think that the time spent with work or school is a problem. Of course this could also be explained by women [double burden](https://en.wikipedia.org/wiki/Double_burden)[1](http://conconi.ulb.be/db.pdf), but this data set doesn't provide enough data to corroborate this hypothesis.
 
@@ -82,7 +82,7 @@ I also asked myself if there was any relation between the age at which someone s
 * 25 - 45 years old;
 * Older than 45 years old.
 
-![](graphs/age_at_first_computer_with_internet_access.png)
+![Age at first computer with internet access](graphs/age_at_first_computer_with_internet_access.png)
 
 As the graph shows there is, there is apparently no relation between the time that participants had with computers with internet access and their gender indentity, since all of the graphs are very similar. Except for people who identified as non-binary, who were much more likely to be younger than 13 years old. In any case, I don't believe this is a relevant characterisct to explain less participation of women in the community since their data is very similar to men and somewhat similar to non-binary.
 
@@ -99,7 +99,7 @@ At last, the last avalyses that I thought was relevant for the purpose of my res
 * 65 to 74 years; 
 * 75 years or older.
 
-![](graphs/age_gender.png)
+![Age per gender](graphs/age_gender.png)
 
 The data shows that women, non-binary and men have similar age distributions. Therefore, I believe this is another aspect that isn't relevant to explain the lower engagement of women in the OSS communitties.
 
