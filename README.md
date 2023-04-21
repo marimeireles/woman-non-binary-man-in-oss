@@ -1,22 +1,15 @@
 # Women, non-binary and men in OSS communities
 
-As a contributor to the Diversity team of Mozilla I made an analysis about how OSS users are engaged with their community. I've dedicated special attention to women and their relation to the community. The data was extracted from Github's Open Source survey from 2017.
-
-## Absolute Numbers
-
-Women participate in OSS communities at a much lower rate than men. Seeing this extremely discrepant data motivated me to run this small research.
+The analysis was conducted by examining the data collected from the GitHub Open Source survey, which included responses from contributors to various OSS communities. The survey captured information on demographics, engagement levels, and experiences of individuals involved in OSS projects. In particular, I analyzed the data pertaining to gender dynamics among contributors, including women, non-binary, and men.
 
 **Participation by gender**
 ![Paticipation by gender](/graphs/participation_by_gender.png)
 
+The data obtained from the analysis revealed a significant gender disparity in OSS communities. Out of the 3,551 respondents who declared their gender identity in the questionnaire, a vast majority, 3,387 (95.4%), identified as men, while only 125 (3.52%) identified as women, and 39 (1.08%) identified as non-binary.
 
-From 3551 people that declared their gender identity in the questionnaire, 3387 were men (95.4%), 125 were women (3.52%) and 39 were non-binary (1.08%). I did not find good sources on what's the percentage of people who identify as non-binary in the world, because most demographic censuses don't even consider the existance of non-binary people. But the percentages of women and men in the world are [about the same](https://data.worldbank.org/indicator/SP.POP.TOTL.FE.ZS).
-
-Which brings the question: why are there so few women in OSS?
+To gain a deeper understanding of the engagement levels of women in OSS communities, I first examined the various types of participation reported in the survey data.
 
 ## Participation Type
-
-First, I looked at the different types of participation reported on the survey. Check the alternatives: 
 
 * Follow updates and discussions of open source projects;
 * Use open source applications; 
@@ -25,28 +18,22 @@ First, I looked at the different types of participation reported on the survey. 
 
 ![Participation type by gender](graphs/participation_type_per_gender.png)
 
-It's interesting to notice that almost the same amount of women, men and non-binary use dependencies and OSS applications. But 74.3% of people who identified as men and 76% of people who identified as non binary contributed as a developer for OSS while only 59.2% of people who identified as women contributed as developers. Women also tend to follow updates from OSS much less (64%) than men do (94.4%).
+The data showed that a higher percentage of men (74.3%) and non-binary individuals (76%) identified as developers and reported contributing to OSS projects, compared to women (59.2%). This suggests a significant disparity in terms of active participation in OSS development, with men and non-binary individuals being more engaged in this aspect of the community. Additionally, the data showed that women tended to follow updates from the OSS community to a lesser extent, with only 64% of women reporting that they do so, compared to 94.4% of men. This indicates a lower level of direct engagement and interaction with the OSS community among women, which may contribute to the observed differences in contributions.
 
-Many women come to Github to use the open source applications that are availabe here, but a considerable number of women don't follow the updates of the community nor contribute as a developer, in other words they're not interacting directly with the community.
+The findings highlight a disparity in the level of direct engagement with OSS communities based on gender identity. While women, men, and non-binary individuals may make use of OSS applications, there appears to be a lower level of participation among women in terms of contributing as developers and following community updates. This may be influenced by various factors, including societal norms, cultural expectations, and gender biases that may limit women's opportunities and involvement in OSS communities.
 
 ## Future Contribution Interest
-
-I analysed what was the contribution interest of the participants by measuring how much they were interested in making a contribution to OSS: 
 
 * Very interested; 
 * Somewhat interested; 
 * Not too interested; 
 * Not at all interested. 
 
-Here are the results:
-
 ![Future contribution interest](graphs/future_contribution_interest.png)
 
-Even though women did not participate in OSS communities as much as men and non-binary people did they are very interested and intend to contribute to OSS. Their interest in contributing is close to people identified as non-binary around 70% and still lower than the insterest shown by men 87%.
+Approximately 70% of women reported an intention to contribute, which was similar to the level of interest expressed by non-binary individuals. However, this percentage was still lower than that of men, with 87% expressing an interest in contributing to OSS.
 
 ## Formal Education
-
-Data about formal education of the people who answered the questionnaire was also collected. People answered what was their highest level of formal education: 
 
 * Less than secondary (high) school; 
 * Secondary (high) school graduate or equivalent; 
@@ -56,11 +43,9 @@ Data about formal education of the people who answered the questionnaire was als
 
 ![Formal education per gender](graphs/formal_education_gender.png)
 
-I wondered if formal education was a characteristic that would interfere with the contribution and presence of women in the OSS communities. From these data I learned that even though women tend to have a lower degree of formal education than men, the numbers are not so discrepant as I expected. But because of the need that women have to [prove themselves frequently](http://www.pewsocialtrends.org/2018/01/09/women-and-men-in-stem-often-at-odds-over-workplace-equity/ps_2018-01-09_stem_2-07/) in sexist environments and because of [impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) it might be a relevant reason why women engage less with OSS than men. Meanwhile the non binary presented the lowest level of formal education, but it doesn't seem to interfeer with how much they participate in OSS communities, since their rates of engagement are similar to those of men.
+I pondered whether formal education could potentially hinder the participation and presence of women in open source software (OSS) communities. Analysis of the data revealed that while women tend to possess lower levels of formal education compared to men and that might be a relevant factor for it. Due to the persistent need for women to [frequently prove themselves](http://www.pewsocialtrends.org/2018/01/09/women-and-men-in-stem-often-at-odds-over-workplace-equity) and the prevalence of impostor syndrome, these factors may be influential in explaining why women engage less in OSS communities relative to men. Interestingly, individuals who identify as non-binary exhibited the lowest level of formal education, yet this does not appear to impede their level of participation in OSS communities, as their engagement rates are comparable to those of men.
 
 ## Employment Status
-
-Another type of data that the Github's survey offered was the emplyoment status of the respondent. The participants could choose between: 
 
 * Employed full time; 
 * Employed part time; 
@@ -70,11 +55,9 @@ Another type of data that the Github's survey offered was the emplyoment status 
 
 ![Employment status by gender](graphs/employment_status.png)
 
-I imagined that women couldn't spend much time contributing to OSS because they're, generally, more occupied than men working or maybe studying, but the graphs for both gender identities are very similar. Therefore, I don't think that the time spent with work or school is a problem. Of course this could also be explained by women [double burden](https://en.wikipedia.org/wiki/Double_burden)[1](http://conconi.ulb.be/db.pdf), but this data set doesn't provide enough data to corroborate this hypothesis.
+Upon analyzing the data, it was observed that the engagement levels of women and men in OSS communities were quite similar, despite any potential differences in their work or study commitments, indicating that time constraints may not be the primary factor influencing women's engagement in OSS communities. However, this research doesn't capture informal work time required by informal work, they might be caught up by [double burdens](https://en.wikipedia.org/wiki/Double_burden)[1](http://conconi.ulb.be/db.pdf), for example. But it's not possible to know.
 
 ## Age at First Computer with Internet Access
-
-I also asked myself if there was any relation between the age at which someone started to use a computer and how much they'd be engaged in OSS communities, the participants could choose between the following options: 
 
 * Younger than 13 years old;
 * 13 - 17 years old; 
@@ -84,11 +67,10 @@ I also asked myself if there was any relation between the age at which someone s
 
 ![Age at first computer with internet access](graphs/age_at_first_computer_with_internet_access.png)
 
-As the graph shows there is, there is apparently no relation between the time that participants had with computers with internet access and their gender indentity, since all of the graphs are very similar. Except for people who identified as non-binary, who were much more likely to be younger than 13 years old. In any case, I don't believe this is a relevant characterisct to explain less participation of women in the community since their data is very similar to men and somewhat similar to non-binary.
+There was no significant correlation between the time participants had access to computers with internet access and their gender identity. The graphs for both women and men showed similar patterns of computer usage.
 
 ## Age by gender
 
-At last, the last avalyses that I thought was relevant for the purpose of my research was if age is one of the reasons for this discrepancy. The age ranges varied between: 
 
 * 17 or younger; 
 * 18 to 24 years; 
@@ -101,25 +83,18 @@ At last, the last avalyses that I thought was relevant for the purpose of my res
 
 ![Age per gender](graphs/age_gender.png)
 
-The data shows that women, non-binary and men have similar age distributions. Therefore, I believe this is another aspect that isn't relevant to explain the lower engagement of women in the OSS communitties.
+The data suggests that age may not be a significant factor in explaining the lower engagement of women in OSS communities.
 
 ## Conclusion
 
-Women are tipically [underrepresented](http://www.unesco.org/new/en/media-services/single-view/news/women_still_a_minority_in_engineering_and_computer_science/) in the STEM fields because of an intrisic sexism that trace to hundreds of years in human society and I believe this is the main reason why there are consideraly less women in computing nowadays. In the beggining computer science strongly depended and counted with the brighteness of women like Ada, Hopper and many other women who programmed and made calculations for the first computers, but for the last decades the field was dominated and controlled by men who secluded women.
+Efforts to promote diversity, inclusivity, and equal opportunities for women in computing and OSS communities are crucial. Creating a welcoming and inclusive environment, implementing codes of conduct that ensure safety and respect, and providing supportive measures such as mentorship programs and community events can help address barriers and promote greater engagement of women in OSS communities.
 
-Happily, women are taking their place back again in this wonderful field, there are many initiatives trying to dissolve the history of disincentive that women have.
+It is important to recognize that women, non-binary individuals, and men have similar levels of interest in contributing to OSS, and that women's lower participation may be due to systemic factors rather than lack of interest. Fostering a culture of inclusivity, empathy, and respect, and actively promoting and supporting women's participation in OSS communities through various initiatives, can help increase their representation and contribute to building a more equitable and diverse OSS ecosystem.
 
-What I could understand from the study of the datum is that women, people who identify as non-binary and men are basically the same when the subject is interest in participating OSS communities. As shown in the graph "Future Contribution Interest by Gender", even though women don't contribute as much as men to the community they still want to do it, maybe what is lacking is more incentive and a more open and welcoming environment for begginers and for women.
-
-Codes of conduct that guarantee a safe place to women and a more respectful and empathetic community, besides what have been said, may be the solution to increase the number of women in OSS communities.
+Continued research, advocacy, and collective efforts from the OSS community, organizations, and individuals are needed to dismantle historical disincentives, overcome barriers, and create a more inclusive and welcoming environment for all individuals, regardless of gender identity, to actively participate, contribute, and thrive in OSS communities. By promoting diversity and inclusivity in OSS, we can harness the full potential of a diverse talent pool and foster innovation and success in open-source projects.
 
 ## Development
 
-I used RStudio to visualize the datum I needed from the tables and also to create new tables and csv files. I found out it was a good software for data visualization.
+RStudio was used to visualize the data.
 
-To write the code that generate the graphs I've used [plotyly](https://plot.ly/) a very complete tool that uses R and the ggplot (and also Python and Javascript, but following the issue's specifications I've used R). 
-As someone who just started programming R I found plotyly approachble and easy to use.
-
-Everything that I code can be found in this repository at code/.
-
-I've also used [paletton](http://paletton.com) to choose nice matching colors to the graphs since how people perceive data is also important.
+For graph visualization [plotyly](https://plot.ly/) was used.
